@@ -31,8 +31,9 @@ Optimizing under-utilized services could reduce costs by 20%
 Dashboard Preview
 <p align="center">
   <img src="powerbi.png"
-       alt="powerbi.png"
+       alt="Cloud Cost and Resource Utilization Dashboard"
        width="900">
+</p>
 </p>
 
 
