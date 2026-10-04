@@ -1,19 +1,25 @@
  Cloud Cost & Resource Utilization Analysis
+ 
 📌 Overview
+
 This project analyzes cloud billing and resource usage data to help businesses control costs and improve efficiency.  
 We used MySQL for data ingestion and cleaning, and Power BI for visualization and storytelling.
 
 ⚙️ Tools & Technologies
+
 - MySQL 9.4 (Database & SQL Analysis)
 - Power BI (Dashboard & Reporting)
 - DAX (Measures for KPIs)
+- 
 📊 Key Features
+
 - Cost Analysis
   - Total cloud spend by service
   - Cost trend over time
 - Resource Utilization
   - Average CPU & Memory usage
   - Network traffic by region
+  - 
 - KPIs
   - Total Cost (INR)
   - Total Usage Quantity
