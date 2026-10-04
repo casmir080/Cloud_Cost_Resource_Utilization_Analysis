@@ -29,10 +29,7 @@ Network outbound traffic is highest in the **US-East region
 Optimizing under-utilized services could reduce costs by 20%
 
 Dashboard Preview
-<p align="center">
-  <img src="powerbi.png"
-       alt="Cloud Cost and Resource Utilization Dashboard"
-       width="900">
+<img width="738" height="441" alt="powerbi" src="https://github.com/user-attachments/assets/b0a2a446-6888-40fd-b3f2-f34014f5b38d" />
 </p>
 </p>
 
