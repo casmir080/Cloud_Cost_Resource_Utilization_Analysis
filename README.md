@@ -3,7 +3,7 @@
  Overview 
  
  This project analyzes cloud billing and resource usage data to help businesses control costs and improve efficiency.
-We used MySQL for data ingestion and cleaning, and Power BI for visualization and storytelling.
+I used MySQL for data ingestion and cleaning, and Power BI for visualization and storytelling.
 
 ⚙️ Tools & Technologies
 
